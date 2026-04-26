@@ -1,0 +1,4 @@
+pyinstaller
+google-generativeai
+requests
+Pillow
